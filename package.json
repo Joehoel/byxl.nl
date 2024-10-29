@@ -31,5 +31,6 @@
 		"autoprefixer": "^10.4.14",
 		"tailwindcss": "^3.3.2"
 	},
-	"type": "module"
+	"type": "module",
+	"packageManager": "npm@10.9.0+sha1.46903bc06cb8a5fd51372647920fe4b830efb8d8"
 }

@@ -6,6 +6,6 @@
 	<title>BYXL</title>
 </svelte:head>
 
-<main class="grid text-center place-content-center bg-stone-950 text-gray-100 h-screen">
+<main class="grid text-center place-content-center bg-gray-100 text-gray-900 h-screen">
 	<slot />
 </main>
