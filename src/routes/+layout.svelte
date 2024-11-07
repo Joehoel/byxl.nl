@@ -10,6 +10,11 @@
 </script>
 
 <svelte:head>
+	<script
+		defer
+		src="https://analytics.longux.xyz/script.js"
+		data-website-id="7a706958-da21-49ef-8952-5502c88a6762"
+	></script>
 	<title>BYXL</title>
 </svelte:head>
 
